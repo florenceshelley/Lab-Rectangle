@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Rectangle\n\ This\ program\ calculates\ the\ area\ and\ perimeter\ of\ a\ rectangle\n\ when\ provided\ with\ a\ width\ value\ and\ a\ height\ value\n\n\ @author\ Florence\ Shelley\n\ @version\ May\ 5,\ 2017\n
+comment1.params=w\ h
+comment1.target=Rectangle(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Rectangle\n
+comment2.params=
+comment2.target=void\ flip()
+comment2.text=\n\ Swap\ the\ values\ of\ the\ width\ and\ the\ height\ of\ the\ rectangle\ with\ each\ other\n\n
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=int\ getHeight()
+comment5.params=
+comment5.target=int\ getArea()
+comment6.params=
+comment6.target=int\ getPerimeter()
+numComments=7

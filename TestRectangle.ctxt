@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestRectangle
+comment1.params=
+comment1.target=void\ testAccessors()
+comment2.params=
+comment2.target=void\ testArea()
+comment3.params=
+comment3.target=void\ testPerimeter()
+comment4.params=
+comment4.target=void\ testFlip()
+numComments=5
